@@ -535,7 +535,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/contrib/pianobar/build/$(CONFIGURATION)";
 				PRODUCT_NAME = PlayerPiano;
-				VALID_ARCHS = i386;
+				VALID_ARCHS = "i386 ppc ppc64 ppc7400 ppc970 x86_64";
 			};
 			name = Debug;
 		};
@@ -557,7 +557,7 @@
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/contrib/pianobar/build/$(CONFIGURATION)";
 				PRODUCT_NAME = PlayerPiano;
-				VALID_ARCHS = i386;
+				VALID_ARCHS = "i386 ppc ppc64 ppc7400 ppc970 x86_64";
 			};
 			name = Release;
 		};
