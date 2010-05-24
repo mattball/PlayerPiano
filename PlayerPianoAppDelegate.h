@@ -48,10 +48,7 @@
 -(IBAction)quit:(id)sender;
 -(IBAction)showPreferences:(id)sender;
 -(IBAction)newStation:(id)sender;
-<<<<<<< HEAD
-=======
 
 -(void)setupPianobarControllerWithEmail:(NSString *)pandoraEmail password:(NSString *)pandoraPassword;
 
->>>>>>> 3d03912dc674f20f1f3b75d06424a0355cad47d6
 @end
